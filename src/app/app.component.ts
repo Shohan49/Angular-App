@@ -3,6 +3,7 @@ import { RouterOutlet } from '@angular/router';
 import { NavbarComponent } from "./navbar/navbar.component";
 import { FooterComponent } from "./footer/footer.component";
 import { ContentComponent } from './content/content.component';
+import { BangladeshComponent } from './bangladesh/bangladesh.component';
 
 @Component({
   selector: 'app-root',
